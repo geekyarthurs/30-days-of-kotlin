@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Mahesh C. Regmi</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi, my name is Mahesh.
+    \n\nI love chicken.
+        \n\nThe kind that is alive and roams around your poultry farm doing kwak kwak kwack.
+        \n\nThe fact that I love chickens is because they are very tasty
+        \n\nI have never cooked a chicken till today to be honest.
+        \n\nI don\'t think I can live without chickens
+        \n\nI will be happy to show and make you eat some chickens made in my house
+        \n\n
+
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
